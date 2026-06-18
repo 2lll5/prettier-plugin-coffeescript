@@ -4,6 +4,10 @@
   "description": "Prettier Coffeescript Plugin",
   "main": "src",
   "repository": "https://github.com/helixbass/prettier-plugin-coffeescript",
+  "homepage": "https://github.com/helixbass/prettier-plugin-coffeescript#readme",
+  "bugs": {
+    "url": "https://github.com/helixbass/prettier-plugin-coffeescript/issues"
+  },
   "authors": [
     "Julian Rosse <@helixbass>"
   ],
